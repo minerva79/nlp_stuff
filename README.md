@@ -1,2 +1,2 @@
-# nlp_stuff
-NLP Stuff
+# Miscellaneous NLP stuff for sharing
+
